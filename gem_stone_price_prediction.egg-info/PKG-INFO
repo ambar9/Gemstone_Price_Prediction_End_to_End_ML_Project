@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gem_stone_price_prediction
+Version: 0.0.1
+Summary: This package use for pridiction of gem stone price using various input vectors.
+Author: Ambar Gharat
+Author-email: ambargharat9@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
